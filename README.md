@@ -1,5 +1,5 @@
 # TUGASMOBILE2
-Tugas Pemrograman Mobile  
+Tugas Pemrograman Mobile (Aplikasi Weather Dinamis) 
 
 Nama  : Atho Arien Nugroho
 Kelas : 2
