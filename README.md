@@ -6,4 +6,4 @@ Kelas : 2
 NIM   : 2015150114
 
 QR CODE 
-<img src="QR.PNG">
+<br><br><br><br><br><img src="QR.PNG">
